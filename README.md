@@ -1,6 +1,6 @@
 # Spatial Hashing
 
-Try the demo here: [https://sam-martis.github.io/Spatial-Hashing_01/](https://sam-martis.github.io/Spatial-Hashing_01/)
+Try the demo here: [https://sam-martis.github.io/Grain-Boundary-Formation-Sim/](https://sam-martis.github.io/Grain-Boundary-Formation-Sim/)
 
 Plain collision checker with gravity.
 
